@@ -1,0 +1,11 @@
+p {
+    font-weight: bold;
+    font-size:20px ;
+    margin-bottom: 20px;
+}
+.one {
+    text-transform:capitalize ;
+}
+.two {
+text-transform: uppercase;
+}
