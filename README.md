@@ -18,7 +18,7 @@ This repository contains my solutions for Elzero Web School CSS assignments.
 - [Assignment 17 to 21 - Ex 2](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignment17_21/Assignment%202/)
 - [عرض التكليف الثالث لايف](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignment17_21/Assignment%203/index.html)
 - [عرض التكليف الرابع لايف](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignment17_21/Assignment%204/index.html)
-- [Assignment 22 to 26 - Ex 1](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignment22_26/Assignment%201/index.html)
+- [Assignment 22 to 26 - Ex 1](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments22_26/Assignment%201/index.html)
 
 
 Done by Yusef 🚀
