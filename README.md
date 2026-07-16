@@ -21,5 +21,8 @@ This repository contains my solutions for Elzero Web School CSS assignments.
 - [Assignment 22 to 26 - Ex 1](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments22_26/Assignment%201/index.html)
 - [Assignment 22 to 26 - Ex 2](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments22_26/Assignment%202/index.html)
 - [Assignment 22 to 26 - Ex 3](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments22_26/Assignment%203/index.html)
+
+
+
 Done by Yusef 🚀
 Done by Yusef 🚀
