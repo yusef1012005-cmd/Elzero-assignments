@@ -1,0 +1,70 @@
+/* أساسيات الصفحة */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+/* الأب الكبير */
+.container {
+    font-weight: 800;
+    font-size: 15px;
+    width: 800px;
+    height: 330px;
+    background-color: #eee;
+    margin: 50px auto 0;
+}
+
+/* العنصر اللي فوق خالص */
+.full {
+    padding: 15px;
+    background-color: #ddd;
+    text-align: center;
+    margin: 22px 15px 15px 15px; /* لمينا الـ margin في سطر واحد (فوق يمين تحت شمال) */
+}
+
+/* السطور */
+.row {
+    padding-right: 15px;
+    padding-left: 15px;
+    overflow: hidden;
+    margin-right: 15px;
+    margin-left: 0;
+}
+
+/* ======================================================== */
+/* 🛠️ تجميع كل السطور المتكررة في مكان واحد باستخدام الفاصلة */
+/* ======================================================== */
+.one-third, 
+.one-half, 
+.one-fourth {
+    margin-left: 15px;
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #ddd;
+}
+
+/* ======================================================== */
+/* 🧮 هنا بنسيب بس العرض (Width) الخاص بكل عنصر بناءً على حسبتك */
+/* ======================================================== */
+
+/* صف الـ 1/3 */
+.one-third {
+    width: calc((100% - 60px) / 3);
+}
+
+/* صف الـ 1/2 */
+.one-half {
+    width: calc((100% - 45px) / 2);
+}
+
+/* صف الـ 1/4 */
+.one-fourth {
+    width: calc((100% - 75px) / 4);
+}
