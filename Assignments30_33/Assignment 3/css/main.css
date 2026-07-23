@@ -1,0 +1,38 @@
+.main-list {
+  list-style: none;
+  margin: 40px auto;
+  padding: 0;
+  width: 400px;
+}
+.card-1,
+.card-2,
+.card-3 {
+  background-color: #eeeeee;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+ol {
+    list-style-position: outside;
+}
+ol,
+.sub-list {
+    background-color: #eeeeee;
+  margin-top: 10px;
+  margin-bottom: 0;
+  padding: 0 0 0 40px; 
+  font-weight: normal;
+}
+
+.sub-list {
+  list-style-type: circle;
+}
+
+.upper-romanian {
+  list-style-type: upper-roman;
+}
+.list{
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 8px 15px;
+}

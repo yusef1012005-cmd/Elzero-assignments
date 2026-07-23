@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh; /* عشان يغطي طول الشاشة */
+}
+
+/* التنسيقات المشتركة لكل المربعات */
+div {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+/* العنصر الأسود */
+.black {
+  background-color: #333333;
+  top: calc(50vh - 50px);
+  left: calc(50% - 60px);
+  z-index: 1;
+}
+
+/* العنصر الأزرق */
+.blue {
+  background-color: #03a9f4;
+  top: calc(50vh - 60px);
+  left: calc(50% - 60px);
+  z-index: 2;
+}
+
+/* العنصر الأخضر */
+.green {
+  background-color: #009688;
+  top: calc(50vh - 50px);
+  left: calc(50% - 50px);
+  z-index: 3;
+}
+
+/* العنصر الأحمر */
+.red {
+  background-color: #f44336;
+  top: calc(50vh - 40px);
+  left: calc(50% - 40px);
+  z-index: 4;
+}
