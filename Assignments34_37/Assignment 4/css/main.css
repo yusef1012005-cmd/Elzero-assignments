@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    position: relative;
+    background-color: #efefef;
+    width: 400px;
+    height: 60px;
+    line-height: 60px;
+    margin: 30px auto 20px;
+    padding: 0;
+    text-align: center;
+    border-right: 5px solid #f44336;
+    counter-increment: members-counter;
+}
+p::before {
+    content: "";
+    position: absolute;
+    width: 55px;
+    height :60px ;
+    line-height: 60px;
+    background-color: #f44336;
+    left:-55px;
+    top:0 ;
+}
+p::after {
+    content: counter(members-counter);
+    position: absolute;
+    background-color: #f44336;
+    height: 60px;
+    left:-33px;
+    top: 0;
+    font-size: 20px;
+    color: white;
+}
