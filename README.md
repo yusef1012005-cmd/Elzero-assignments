@@ -8,6 +8,7 @@ This repository contains my solutions for Elzero Web School CSS assignments.
 - `Assignments22_26`
 - `Assignments27_29`
 - `Assignments30_33`
+- `Assignments34_37`
 
 ## Live Demo Links:
 - [Assignments 9 to 12 - Ex 2](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments9_12/Assignment2/)
@@ -24,5 +25,9 @@ This repository contains my solutions for Elzero Web School CSS assignments.
 - [Assignments 30 to 33 - Ex 2](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments30_33/Assignment%202/index.html)
 - [Assignments 30 to 33 - Ex 3](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments30_33/Assignment%203/index.html)
 - [Assignments 30 to 33 - Ex 4](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments30_33/Assignment%204/index.html)
+- [Assignments 34 to 37 - Ex 1](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments34_37/Assignment%201/index.html)
+- [Assignments 34 to 37 - Ex 2](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments34_37/Assignment%202/index.html)
+- [Assignments 34 to 37 - Ex 3](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments34_37/Assignment%203/index.html)
+- [Assignments 34 to 37 - Ex 4](https://yusef1012005-cmd.github.io/Elzero-assignments/Assignments34_37/Assignment%204/index.html)
 
 Done by Yusef 🚀
